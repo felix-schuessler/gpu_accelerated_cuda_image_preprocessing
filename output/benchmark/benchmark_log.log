@@ -1,0 +1,1432 @@
+
+Configuration:
+Augmentation Method: pillow
+Image Dimension: 16
+Number of Training Images: 240 (using default)
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.003 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.003 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.002 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.003 seconds
+Augmentation Time (pillow): 0.011792659759521484
+
+
+Configuration:
+Augmentation Method: pillow
+Image Dimension: 32
+Number of Training Images: 240 (using default)
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.005 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.005 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.002 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.005 seconds
+Augmentation Time (pillow): 0.0172574520111084
+
+
+Configuration:
+Augmentation Method: pillow
+Image Dimension: 64
+Number of Training Images: 240 (using default)
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.011 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.012 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.003 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.012 seconds
+Augmentation Time (pillow): 0.037688255310058594
+
+
+Configuration:
+Augmentation Method: pillow
+Image Dimension: 128
+Number of Training Images: 240 (using default)
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.032 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.035 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.004 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.036 seconds
+Augmentation Time (pillow): 0.10757732391357422
+
+
+Configuration:
+Augmentation Method: pillow
+Image Dimension: 256
+Number of Training Images: 240 (using default)
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.118 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.126 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.012 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.133 seconds
+Augmentation Time (pillow): 0.3896067142486572
+
+
+Configuration:
+Augmentation Method: pillow
+Image Dimension: 512
+Number of Training Images: 240 (using default)
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.470 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.507 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.062 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.524 seconds
+Augmentation Time (pillow): 1.5626628398895264
+
+
+Configuration:
+Augmentation Method: pillow
+Image Dimension: 1024
+Number of Training Images: 240 (using default)
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 2.020 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 2.146 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.293 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 2.210 seconds
+Augmentation Time (pillow): 6.668975591659546
+
+
+Configuration:
+Augmentation Method: cuda
+Image Dimension: 16
+Number of Training Images: 240 (using default)
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.001 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.001 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.001 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.001 seconds
+Augmentation Time (cuda): 0.003626585006713867
+
+
+Configuration:
+Augmentation Method: cuda
+Image Dimension: 32
+Number of Training Images: 240 (using default)
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.001 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.001 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.001 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.001 seconds
+Augmentation Time (cuda): 0.004090309143066406
+
+
+Configuration:
+Augmentation Method: cuda
+Image Dimension: 64
+Number of Training Images: 240 (using default)
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.002 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.001 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.001 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.001 seconds
+Augmentation Time (cuda): 0.004885435104370117
+
+
+Configuration:
+Augmentation Method: cuda
+Image Dimension: 128
+Number of Training Images: 240 (using default)
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.003 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.002 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.002 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.002 seconds
+Augmentation Time (cuda): 0.009752750396728516
+
+
+Configuration:
+Augmentation Method: cuda
+Image Dimension: 256
+Number of Training Images: 240 (using default)
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.012 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.009 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.007 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.007 seconds
+Augmentation Time (cuda): 0.035059213638305664
+
+
+Configuration:
+Augmentation Method: cuda
+Image Dimension: 512
+Number of Training Images: 240 (using default)
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.058 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.053 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.053 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.055 seconds
+Augmentation Time (cuda): 0.22018074989318848
+
+
+Configuration:
+Augmentation Method: cuda
+Image Dimension: 1024
+Number of Training Images: 240 (using default)
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.216 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.216 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.212 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.216 seconds
+Augmentation Time (cuda): 0.8601601123809814
+
+
+Configuration:
+Augmentation Method: pillow
+Image Dimension: 200 (using default)
+Number of Training Images: 200
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.072 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.079 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.009 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Augmentation Time (pillow): 0.24150753021240234
+
+
+Configuration:
+Augmentation Method: pillow
+Image Dimension: 200 (using default)
+Number of Training Images: 400
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.072 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.079 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.008 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Augmentation Time (pillow): 0.5642476081848145
+
+
+Configuration:
+Augmentation Method: pillow
+Image Dimension: 200 (using default)
+Number of Training Images: 800
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.072 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.079 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.007 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.083 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.083 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.090 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.091 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.087 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.069 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.064 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.073 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.070 seconds
+Augmentation Time (pillow): 1.1945040225982666
+
+
+Configuration:
+Augmentation Method: pillow
+Image Dimension: 200 (using default)
+Number of Training Images: 1600
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.073 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.079 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.009 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.091 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.091 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.088 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.069 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.063 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.072 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.069 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.091 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.094 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.089 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.094 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.083 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.071 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.067 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.069 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.096 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Augmentation Time (pillow): 2.5385472774505615
+
+
+Configuration:
+Augmentation Method: pillow
+Image Dimension: 200 (using default)
+Number of Training Images: 3200
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.073 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.079 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.007 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.087 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.089 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.091 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.087 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.069 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.063 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.072 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.069 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.091 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.089 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.094 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.096 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.071 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.067 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.069 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.089 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.088 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.094 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.069 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.091 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.083 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.085 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.091 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.091 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.078 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.063 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.084 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.087 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.075 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.086 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.079 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.059 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.067 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.064 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.089 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.091 seconds
+Augmentation Time (pillow): 5.168133735656738
+
+
+Configuration:
+Augmentation Method: pillow
+Image Dimension: 200 (using default)
+Number of Training Images: 6400
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.072 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.080 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.009 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.089 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.090 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.088 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.069 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.065 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.073 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.068 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.091 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.094 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.089 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.094 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.084 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.071 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.067 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.069 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.089 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.087 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.069 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.091 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.084 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.093 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.090 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.084 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.078 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.063 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.084 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.087 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.073 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.086 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.079 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.059 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.066 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.064 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.090 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.091 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.069 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.084 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.059 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.085 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.079 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.079 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.059 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.009 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.067 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.071 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.059 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.094 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.090 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.068 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.094 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.078 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.094 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.085 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.094 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.089 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.096 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.090 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.082 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.094 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.094 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.094 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.084 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.096 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.084 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.092 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.096 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.091 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.070 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.095 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.067 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.081 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.071 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.073 seconds
+Start Augmentation (pillow)
+time_exec rotate_images_with_pillow: 0.064 seconds
+Augmentation Time (pillow): 10.404765844345093
+
+
+Configuration:
+Augmentation Method: cuda
+Image Dimension: 200 (using default)
+Number of Training Images: 200
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.006 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.005 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Augmentation Time (cuda): 0.020352840423583984
+
+
+Configuration:
+Augmentation Method: cuda
+Image Dimension: 200 (using default)
+Number of Training Images: 400
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.008 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.006 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.005 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Augmentation Time (cuda): 0.039780616760253906
+
+
+Configuration:
+Augmentation Method: cuda
+Image Dimension: 200 (using default)
+Number of Training Images: 800
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.008 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.005 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.006 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Augmentation Time (cuda): 0.07446146011352539
+
+
+Configuration:
+Augmentation Method: cuda
+Image Dimension: 200 (using default)
+Number of Training Images: 1600
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.007 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.005 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.005 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.013 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.005 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Augmentation Time (cuda): 0.1496729850769043
+
+
+Configuration:
+Augmentation Method: cuda
+Image Dimension: 200 (using default)
+Number of Training Images: 3200
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.008 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.006 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.005 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.005 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.005 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.005 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Augmentation Time (cuda): 0.28282904624938965
+
+
+Configuration:
+Augmentation Method: cuda
+Image Dimension: 200 (using default)
+Number of Training Images: 6400
+Number of Valiation Images: 60 (using default)
+Batch Size: 50 (using default)
+Epochs: 50 (using default)
+Benchmark Run: True
+
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.007 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.005 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.005 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.006 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.005 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.005 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.006 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.005 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.006 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.005 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.006 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.007 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.005 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.012 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Start Augmentation (cuda)
+time_exec rotate_images_with_cuda: 0.004 seconds
+Augmentation Time (cuda): 0.5728340148925781
+
