@@ -88,6 +88,18 @@ python3 src/multiclass_cnn.py
 python3 src/multiclass_cnn.py --augment=pillow --img_dim=512 --epochs=20
 ```
 
+Executing `multiclass_cnn.py` generates plots for model accuracy and loss, saved in `./output/augmented/`.
+
+| ![Train and Val Accuracy (CUDA Image Rotation)](output/augmented/cuda/model_accuracy.png) | ![Train and Val Accuracy (No Augmentation)](output/augmented/None/model_accuracy.png) |
+|:---:|:---:|
+| Train and Val Accuracy (CUDA Image Rotation) | Train and Val Accuracy (No Augmentation) |
+
+- **CUDA Image Rotation:** Moderate overfitting as training accuracy rises while validation accuracy fluctuates and lags behind.
+
+- **No Augmentation:** Severe overfitting with training accuracy reaching 100%, but validation accuracy plateauing below 90%.
+
+Conclusion: Simple data augmentation like image rotation reduces overfitting effectively.
+
 ### 2. `benchmark.py`
 
 The `benchmark.py` script runs performance benchmarks by utilizing the CLI arguments from `multiclass_cnn.py`. This allows you to compare the performance of various image augmentation implementations across different image dimensions and dataset sizes.
