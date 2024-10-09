@@ -47,12 +47,12 @@ def plot_benchmark_result(x_axis):
     for method in AUGMENTATION_METHODS:
         plt.plot(pivot_df.index, pivot_df[method], marker='o', label=method)
 
-    plt.title('Data Augmentation Execution Time by Dimension', fontsize=14, fontweight='bold')
-    plt.xlabel(x_axis, fontsize=12)
-    plt.ylabel(TIME_SEC, fontsize=12)
+    plt.title(f'Data Augmentation Execution Time by {x_axis}', fontsize=14, fontweight='bold')
+    plt.xlabel(x_axis, fontsize=14)
+    plt.ylabel(TIME_SEC, fontsize=14)
     plt.xticks(pivot_df.index)
     plt.grid()
-    plt.legend(title="Data Augmentation Methods", loc='upper left', fontsize=12)
+    plt.legend(title="Data Augmentation Methods", loc='upper left', fontsize=14)
     plt.tight_layout()
     plt.savefig(f"{BENCHMARK_DIR}/{filename}_benchmark.png", format='png')
 
@@ -66,7 +66,7 @@ if __name__ == "__main__":
     ensure_empty_dir(dir_path=BENCHMARK_DIR)
 
     results = []
-    image_dimensions = [16, 32, 64, 128, 256, 512, 1024]
+    image_dimensions = [32, 64, 128, 256, 512, 1024]
     NUM_IMG_STATIC = 240
     run_benchmark(
         benchmark_values=image_dimensions,
@@ -78,7 +78,7 @@ if __name__ == "__main__":
     )
 
     results = []
-    image_nums = [200, 400, 800, 1600, 3200, 6400]
+    image_nums = [100, 200, 400, 800, 1600, 3200]
     IMG_DIM_STATIC = 200
     run_benchmark(
         benchmark_values=image_nums,
