@@ -40,7 +40,7 @@ def plot_benchmark_result(x_axis):
 
     os.rename(BENCHMARK_RESULTS_CSV,f'{BENCHMARK_DIR}/results_{filename}.csv')
 
-    plt.figure(figsize=(12, 10))
+    plt.figure(figsize=(10, 6))
 
     pivot_df = results_df.pivot(index=x_axis, columns=AUGMENTATION_METHOD, values=TIME_SEC)
 
@@ -53,7 +53,6 @@ def plot_benchmark_result(x_axis):
     plt.xticks(pivot_df.index)
     plt.grid()
     plt.legend(title="Data Augmentation Methods", loc='upper left', fontsize=14)
-    plt.tight_layout()
     plt.savefig(f"{BENCHMARK_DIR}/{filename}_benchmark.png", format='png')
 
 
